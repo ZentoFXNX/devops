@@ -14,9 +14,3 @@ This repository contains my lab work for a DevOps fundamentals course at univers
 ## Contributing
 
 While this repository primarily serves as a personal record of my lab work, I welcome feedback and suggestions for improvement. Feel free to open an issue if you spot any errors or have helpful advice.
-
-
-## License
-
-This repository is licensed under the [MIT License](/LICENSE).
-
