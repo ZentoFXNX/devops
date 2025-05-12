@@ -1,0 +1,7 @@
+---
+- name: Install latest nginx
+  apt:
+    name: nginx
+    state: latest
+    update_cache: yes
+  notify: start_nginx

@@ -1,0 +1,4 @@
+---
+ansible_password: "121221rr"
+ansible_become_pass: "121221rr"
+ansible_become: yes
